@@ -22,10 +22,10 @@ Welcome to My GitHub!
 ![SQLite](https://img.shields.io/badge/SQLite-123772?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-091830?style=flat-square&logo=github&logoColor=white)
 
-<details>
+<!-- <details>
   <summary>⚡ GitHub Stats</summary>
   
   ![GitHub Stats](https://github-readme-stats-nine-xi-69.vercel.app/api?username=ksalguera&hide=issues&count_private=true&show_icons=true)
   
   ![Top Langs](https://github-readme-stats-nine-xi-69.vercel.app/api/top-langs?username=ksalguera&layout=compact)
-</details>
+</details> -->
