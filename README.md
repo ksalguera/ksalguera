@@ -3,8 +3,8 @@
 
 Welcome to My GitHub! 
 
-- 🔭 I am currently an Associate Software Engineer at Activate Care.
-- 🌱 I am exploring open-source projects to contribute to.
+- 🔭 I am currently an Mid-Level Software Engineer.
+- 🌱 I am actively learning Java and building Minecraft plugins.
 - ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
 - 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/ksalguera/).
 
@@ -21,11 +21,6 @@ Welcome to My GitHub!
 ![Postgres](https://img.shields.io/badge/PostgreSQL-3675DC?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-123772?style=flat-square&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-091830?style=flat-square&logo=github&logoColor=white)
-
-## Blog Posts
-- [React and Active Storage in Rails 7](https://medium.com/@kelseythang/react-and-active-storage-in-rails-7-d4425be224d8) (2023-05-15)
-- [Building a RESTful CRUD API with Ruby on Rails](https://medium.com/@kelseythang/building-a-restful-crud-api-with-ruby-on-rails-c4ccd8f7f180) (2023-03-06)
-- [Intro to Ruby Programming](https://medium.com/@kelseythang/intro-to-ruby-programming-c1695c6e4d9c) (2022-12-16)
 
 <details>
   <summary>⚡ GitHub Stats</summary>
