@@ -1,31 +1,28 @@
+# Hello, fellow side-quest enthusiasts
 
-# Hi, I'm Kelsey Salguera! 
+> **Software engineer by day, side-project collector by night. 🌙**
 
-Welcome to My GitHub! 
+Most days I'm working in **Svelte/SvelteKit**. My background is mostly **React and Ruby on Rails**, but apparently I decided I didn't have enough programming languages in my life, so now I'm learning **Java** and making Minecraft plugins too.
 
-- 🔭 I am currently an Mid-Level Software Engineer.
-- 🌱 I am actively learning Java and building Minecraft plugins.
-- ⚡ Besides coding, I enjoy video games, collecting TCG cards, and yoga.
-- 💬 You can get in touch with me by messaging me on [LinkedIn](https://www.linkedin.com/in/ksalguera/).
+I like building things I'd actually want to use, which is usually how the side-project collecting starts.
 
-![Rails](https://img.shields.io/badge/Rails-8A0606?style=flat-square&logo=rubyonrails&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-C80505?style=flat-square&logo=ruby&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-EEE708?style=flat-square&logo=javascript&logoColor=white)
-![Render](https://img.shields.io/badge/Render-16C149?style=flat-square&logo=render&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-12BBE0?style=flat-square&logo=mui&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-369FDC?style=flat-square&logo=css3&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-3675DC?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-123772?style=flat-square&logo=sqlite&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-091830?style=flat-square&logo=github&logoColor=white)
+Right now that includes:
 
-<!-- <details>
-  <summary>⚡ GitHub Stats</summary>
-  
-  ![GitHub Stats](https://github-readme-stats-nine-xi-69.vercel.app/api?username=ksalguera&hide=issues&count_private=true&show_icons=true)
-  
-  ![Top Langs](https://github-readme-stats-nine-xi-69.vercel.app/api/top-langs?username=ksalguera&layout=compact)
-</details> -->
+📦 **[node-lifecycle](https://github.com/ksalguera/node-lifecycle)** — a Node.js lifecycle and EOL checker published on npm.
+
+⛏️ **[Discoveries](https://github.com/ksalguera/discoveries)** — a location discovery and collection plugin for Minecraft Paper servers, and my excuse to learn Java.
+
+There will probably be more. I have a habit of getting an idea and thinking, *"I could make that."*
+
+### When I'm not staring at code...
+
+🎮 I'm probably playing a game  
+🃏 collecting TCG cards  
+🧘‍♀️ occasionally remembering that yoga is good for me  
+☕ or starting another project I definitely needed
+
+I'm from the Midwest, I like open source, and I'm always learning something new.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?logo=linkedin)](https://www.linkedin.com/in/ksalguera/)
+[![Sponsor](https://img.shields.io/badge/GitHub-Sponsor-informational?logo=githubsponsors)](https://github.com/sponsors/ksalguera)
+![Profile views](https://komarev.com/ghpvc/?username=ksalguera&label=Profile%20views)
